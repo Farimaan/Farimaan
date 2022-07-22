@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Farimaan
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning react, nodejs
-- 📫 How to reach me : You can follow me on instgram "farimaan.sh"
+
